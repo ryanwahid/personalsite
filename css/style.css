@@ -40,8 +40,8 @@ body, html{
 }
 
 .section-light{
-	background-color:#f4f4f4;
-	color:#666;
+	background-color:#282e34;
+	color:#ddd;
 }
 .section-dark{
 	background-color:#282e34;
@@ -54,13 +54,13 @@ body, html{
 	width: 100%;
 	text-align: center;
 	color:#000;
-	font-size: 27px;
-	letter-spacing: 8px;
+	font-size: 23px;
+	letter-spacing: 4px;
 	text-transform: uppercase;
 }
 
-.ptext .border{
-	background-color: #111;
+.ptext .border p{
+	background-color: #FF0000;
 	color: #fff;
 	padding: 20px;
 }
